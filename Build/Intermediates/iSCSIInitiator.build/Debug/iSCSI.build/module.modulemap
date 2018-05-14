@@ -1,0 +1,6 @@
+framework module iSCSI {
+  umbrella header "iSCSI.h"
+
+  export *
+  module * { export * }
+}

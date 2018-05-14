@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/km/Code/iSCSIInitiator/Build/Products/Debug/iSCSI.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "iSCSI-Swift.h",
+          'external-contents': "/Users/km/Code/iSCSIInitiator/Build/Products/Debug/iSCSI.framework/Versions/A/Headers/iSCSI-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/km/Code/iSCSIInitiator/Build/Products/Debug/iSCSI.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/km/Code/iSCSIInitiator/Build/Intermediates/iSCSIInitiator.build/Debug/iSCSI.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
